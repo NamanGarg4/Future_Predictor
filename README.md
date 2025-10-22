@@ -22,7 +22,7 @@ $mail->Host = 'smtp.gmail.com';
 $mail->Username = 'name@gmail.com'; // Your email id
 $mail->Password = 'app_password';   // Your app password
 5. Open your browser and go to:
-http://localhost/future_predictor/index.php
+http://localhost/future_predictor/
 
 Note
 1. Make sure `php_openssl.dll` is enabled in your `php.ini`.
